@@ -7,4 +7,4 @@
 ##### Mto. Oscar Calderón Bustamante
 ##### Dr. Julián A. Velasco
 
-###### En este repositorio las y los estudiantes encontrarán los ejercicios básicos para realizar análisis de cambio climático en sistemas naturales
+# En este repositorio las y los estudiantes encontrarán los ejercicios básicos para realizar análisis de cambio climático en sistemas naturales
