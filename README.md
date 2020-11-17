@@ -8,3 +8,21 @@
 ##### Dr. Julián A. Velasco
 
 # En este repositorio las y los estudiantes encontrarán los ejercicios básicos para realizar análisis de cambio climático en sistemas naturales
+
+
+# Introducción muy básica a R
+https://juvelas.github.io/Curso-CCA-UNAM/Intro_R_Curso_Herramientas.html
+
+# Cartografía
+https://juvelas.github.io/Curso-CCA-UNAM/Cartografia.html
+
+# Bioclimáticos
+https://juvelas.github.io/Curso-CCA-UNAM/Bioclimaticos.html
+
+# GBIF y Bioclim
+
+
+
+
+
+
