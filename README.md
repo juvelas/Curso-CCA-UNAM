@@ -4,10 +4,10 @@
 
 #### Instructores:
 ##### Dr. Francisco Estrada Porrúa
-##### Mto. Oscar Calderón Bustamante
+##### M en C. Oscar Calderón Bustamante
 ##### Dr. Julián A. Velasco
 
-# En este repositorio las y los estudiantes encontrarán los ejercicios básicos para realizar análisis de cambio climático en sistemas naturales
+# En este repositorio las y los estudiantes encontrarán los ejercicios básicos para realizar algunos análisis de cambio climático en sistemas naturales
 
 # Introducción muy básica a R
 https://juvelas.github.io/Curso-CCA-UNAM/Intro_R_Curso_Herramientas.html
@@ -24,8 +24,12 @@ https://juvelas.github.io/Curso-CCA-UNAM/GBIF_Bioclim.html
 # Ensambles y predicciones a futuro
 https://juvelas.github.io/Curso-CCA-UNAM/ensambles.html
 
+# Modelos dinámicos con cambio climático
+
 # Modelos macroecológicos
-https://juvelas.github.io/Curso-CCA-UNAM/MEMs.html
+https://juvelas.github.io/Curso-CCA-UNAM/MEMs_ranas.html
+
+
 
 
 # Taller de R -PINCC-
