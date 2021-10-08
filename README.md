@@ -27,7 +27,7 @@ https://juvelas.github.io/Curso-CCA-UNAM/ensambles.html
 # Modelos dinámicos con cambio climático
 
 # Modelos macroecológicos
-https://juvelas.github.io/Curso-CCA-UNAM/MEMs_ranas.html
+https://juvelas.github.io/Curso-CCA-UNAM/MEMs_Ranas.html
 
 
 
