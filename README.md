@@ -25,7 +25,8 @@ https://juvelas.github.io/Curso-CCA-UNAM/GBIF_Bioclim.html
 https://juvelas.github.io/Curso-CCA-UNAM/ensambles.html
 
 # Modelos dinámicos con cambio climático
-
+https://juvelas.github.io/Curso-CCA-UNAM/Ejercicio_Hippos.html
++
 # Modelos macroecológicos
 https://juvelas.github.io/Curso-CCA-UNAM/MEMs_Ranas.html
 
