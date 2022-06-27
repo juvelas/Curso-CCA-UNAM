@@ -31,9 +31,11 @@ https://juvelas.github.io/Curso-CCA-UNAM/Ejercicio_Hippos.html
 https://juvelas.github.io/Curso-CCA-UNAM/MEMs_Ranas.html
 
 
-
-
 # Taller de R -PINCC-
 https://juvelas.github.io/Curso-CCA-UNAM/Taller_R_PINCC_2021.html
+
+
+# Taller de R PEMBU 2022
+https://juvelas.github.io/Curso-CCA-UNAM/Taller_PEMBU.html
 
 
