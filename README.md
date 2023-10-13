@@ -10,14 +10,7 @@
 # En este repositorio las y los estudiantes encontrarán los ejercicios básicos para realizar algunos análisis de cambio climático en sistemas naturales
 
 # Introducción a R (Cartografía, Rasters y Bioclimáticos)
-https://juvelas.github.io/Curso-CCA-UNAM/Intro_R_Curso_Herramientas.html
 https://juvelas.github.io/Curso-CCA-UNAM/Introduccion_R.html
-
-# Cartografía
-https://juvelas.github.io/Curso-CCA-UNAM/Cartografia.html
-
-# Bioclimáticos
-https://juvelas.github.io/Curso-CCA-UNAM/Bioclimaticos.html
 
 # GBIF y Bioclim
 https://juvelas.github.io/Curso-CCA-UNAM/GBIF_Bioclim.html
