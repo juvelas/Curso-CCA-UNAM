@@ -19,7 +19,7 @@ https://juvelas.github.io/Curso-CCA-UNAM/Deltas_CMIP6.html
 https://juvelas.github.io/Curso-CCA-UNAM/Bioclimaticos.html
 
 # Descarga de GBIF, procesamiento de datos y modelos de nicho ecológico
-https://juvelas.github.io/Curso-CCA-UNAM/GBIF_ENM_SDM.html
+https://juvelas.github.io/Curso-CCA-UNAM/GBIF_EMN_SDM.html
 
 # GBIF y Bioclim
 https://juvelas.github.io/Curso-CCA-UNAM/GBIF_Bioclim.html
