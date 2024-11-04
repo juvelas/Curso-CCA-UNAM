@@ -31,7 +31,7 @@ https://juvelas.github.io/Curso-CCA-UNAM/ensambles.html
 https://juvelas.github.io/Curso-CCA-UNAM/Ejercicio_Hippos.html
 
 # Modelos macroecológicos
-https://juvelas.github.io/Curso-CCA-UNAM/MEMs_Ranas.html
+https://juvelas.github.io/Curso-CCA-UNAM/MEM_Centrolenidae.html
 
 
 # Taller de R -PINCC-
